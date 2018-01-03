@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TopJUI.iml" filepath="$PROJECT_DIR$/.idea/TopJUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TopJUIAdmin.iml" filepath="$PROJECT_DIR$/.idea/TopJUIAdmin.iml" />
     </modules>
   </component>
 </project>
