@@ -4,15 +4,31 @@
     "pid": 13502,
     "state": "open",
     "iconCls": "",
-    "text": "Dialog表单",
-    "url": "./html/complex/dialog.html"
+    "text": "资源管理",
+    "url": "./page/system/resource.html"
   },
   {
     "id": 13561,
     "pid": 13502,
     "state": "open",
     "iconCls": "",
-    "text": "Panel表单",
+    "text": "角色管理",
+    "url": "./html/complex/panel_add.html"
+  },
+  {
+    "id": 13561,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "用户管理",
+    "url": "./html/complex/panel_add.html"
+  },
+  {
+    "id": 13561,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "售电公司管理",
     "url": "./html/complex/panel_add.html"
   }
 ]

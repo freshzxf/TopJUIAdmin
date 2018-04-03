@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "申报与成交电量分布",
+    "url": "./html/layout/layout_wc1.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "参与企业竞价价差",
+    "url": "./html/layout/layout_wc2.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "参与竞价企业分布",
+    "url": "./html/layout/layout_wcs.html"
+  }
+]

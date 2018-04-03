@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "售电公司管理",
+    "url": "./html/layout/layout_wc1.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "供电公司管理",
+    "url": "./html/layout/layout_wc2.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "交易中心管理",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "交易公告管理",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "交易数据管理",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "交易上报管理",
+    "url": "./html/layout/layout_wcs.html"
+  }
+]

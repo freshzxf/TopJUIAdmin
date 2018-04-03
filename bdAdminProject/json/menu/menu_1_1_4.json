@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "用电客户管理",
+    "url": "./html/layout/layout_wc1.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "供电公司管理",
+    "url": "./html/layout/layout_wc2.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "注册客户管理",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "发电企业管理",
+    "url": "./html/layout/layout_cse.html"
+  },
+  {
+    "id": 1360,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "潜在用电客户管理",
+    "url": "./html/layout/layout_nc1.html"
+  }
+]

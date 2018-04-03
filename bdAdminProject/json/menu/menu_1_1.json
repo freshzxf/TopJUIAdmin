@@ -4,23 +4,87 @@
     "pid": 1350,
     "state": "closed",
     "iconCls": "",
-    "text": "基础表单演示",
+    "text": "系统设置",
     "url": ""
   },
   {
     "id": "1_1_2",
     "pid": 1350,
-    "state": "closed",
+    "state": "open",
     "iconCls": "",
-    "text": "基础表格操作演示",
-    "url": ""
+    "text": "合作企业用电情况总览",
+    "url": "http://www.jxnyxs.com"
   },
   {
     "id": "1_1_3",
     "pid": 1350,
+    "state": "open",
+    "iconCls": "",
+    "text": "供热管网数据总览",
+    "url": "http://www.baidu.com"
+  },
+  {
+    "id": "1_1_4",
+    "pid": 1350,
     "state": "closed",
     "iconCls": "",
-    "text": "多组件加载性能演示",
+    "text": "客户管理",
+    "url": ""
+  },
+  {
+    "id": "1_1_5",
+    "pid": 1350,
+    "state": "closed",
+    "iconCls": "",
+    "text": "合同管理",
+    "url": ""
+  },
+  {
+    "id": "1_1_6",
+    "pid": 1350,
+    "state": "closed",
+    "iconCls": "",
+    "text": "业务管理",
+    "url": ""
+  },
+  {
+    "id": "1_1_7",
+    "pid": 1350,
+    "state": "closed",
+    "iconCls": "",
+    "text": "偏差管理",
+    "url": ""
+  },
+  {
+    "id": "1_1_8",
+    "pid": 1350,
+    "state": "closed",
+    "iconCls": "",
+    "text": "网厅管理",
+    "url": ""
+  },
+  {
+    "id": "1_1_9",
+    "pid": 1350,
+    "state": "closed",
+    "iconCls": "",
+    "text": "负荷监测管理",
+    "url": ""
+  },
+  {
+    "id": "1_1_10",
+    "pid": 1350,
+    "state": "closed",
+    "iconCls": "",
+    "text": "数据回放",
+    "url": ""
+  },
+  {
+    "id": "1_1_11",
+    "pid": 1350,
+    "state": "closed",
+    "iconCls": "",
+    "text": "交易中心管理",
     "url": ""
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "零售电三方协议",
+    "url": "./html/layout/layout_wc1.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "购售电代理合同",
+    "url": "./html/layout/layout_wc2.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "合同模板管理",
+    "url": "./html/layout/layout_wcs.html"
+  }
+]

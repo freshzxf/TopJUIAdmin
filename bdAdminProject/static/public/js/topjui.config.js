@@ -7,7 +7,7 @@
 /* 静态演示中获取contextPath，动态演示非必须 开始 */
 var contextPath = "";
 var remoteHost = "http://localhost:8080";
-if (navigator.onLine) {
+if (navigator.onLine) { //判断用户电脑是否联网
     remoteHost = "http://demo.ewsd.cn";
     // 百度统计代码开始
     var _hmt = _hmt || [];

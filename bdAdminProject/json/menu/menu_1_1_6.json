@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "合同电量报送",
+    "url": "./html/layout/layout_wc1.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "电量查询",
+    "url": "./html/layout/layout_wc2.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "售电订单管理",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "结算上报管理",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "合同电量报送管理",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "合同咨询管理",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "合同计划电量管理",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "交易公告管理",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "交易上报",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "市场边际价格预测",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "辅助报价决策",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "预测专家库",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "专家库实用性分析",
+    "url": "./html/layout/layout_wcs.html"
+  },
+  {
+    "id": 1359,
+    "pid": 13502,
+    "state": "open",
+    "iconCls": "",
+    "text": "竞价交易电量分析",
+    "url": "./html/layout/layout_wcs.html"
+  }
+]

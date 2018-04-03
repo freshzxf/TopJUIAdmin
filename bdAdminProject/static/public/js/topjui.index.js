@@ -347,7 +347,7 @@ function getActivePageId() {
     return getPageId($a);
 }
 
-//激活Tab,通过id
+//激活Tab,通过idtopmenucontent
 function activeTabByPageId(pageId) {
     $(".menu_tab").removeClass("active");
     $("#index_tabs").find(".active").removeClass("active");
